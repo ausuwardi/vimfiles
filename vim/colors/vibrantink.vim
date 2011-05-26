@@ -68,6 +68,7 @@ else
 endif
 
 hi taskpaperDone      guifg=#444444 ctermfg=darkgray
+hi taskpaperCancelled guifg=#444444 ctermfg=darkgray
 hi taskpaperProject   gui=bold guifg=#66FF00 guibg=#001700 cterm=bold ctermfg=green
 hi taskpaperTodo      gui=NONE guifg=#F0E68C guibg=#FF00FF cterm=NONE ctermfg=lightyellow ctermbg=lightmagenta
 hi taskpaperListItem  guifg=#FF6600
