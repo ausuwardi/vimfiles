@@ -7,4 +7,5 @@
 augroup taskpaper
      au! BufRead,BufNewFile *.taskpaper   setfiletype taskpaper
      au FileType taskpaper setlocal noexpandtab shiftwidth=4 tabstop=4
+     au FileType taskpaper colorscheme vibrantink
 augroup END
