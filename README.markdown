@@ -1,12 +1,11 @@
 VIMFILES
 ========
-This project is a placeholder my personal vim configuration. I'm a basic 
-level vim user and I want my configuration is accessible from every 
-computer I have. That way, I wouldn't have to spend my time just to 
-reconfigure vim.
+This project is a placeholder my personal vim configuration. I'm an average 
+level vim user and I want my configuration accessible and synchronized from every 
+computer I use.
 
 Usage
 -----
-Clone this repository and copy the contents of vim to $HOME/.vim, and 
-vimrc to $HOME/.vimrc
+Clone this repository and link $HOME/.vim to vim and 
+$HOME/.vimrc to vimrc
 
